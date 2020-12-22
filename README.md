@@ -1,7 +1,7 @@
 # Fullstack web-app
 
 ## Contents
-* (Technologies)[technologies]
+* [Technologies](technologies)
 
 ## Technologies
 - ReactJS
