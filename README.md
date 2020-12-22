@@ -1,9 +1,9 @@
 # Fullstack web-app
 
-## Contents
-* [Technologies](technologies)
+### Contents
+* [Technologies](#technologies)
 
-## Technologies
+# Technologies
 - ReactJS
 - Django 
 - Docker
